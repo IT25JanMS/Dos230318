@@ -1,0 +1,23 @@
+Microsoft Windows [Version 10.0.26100.3476]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Windows\System32>cd\
+
+C:\>cd work
+
+C:\work>dir
+ Volume in drive C is Windows
+ Volume Serial Number is 103E-7212
+
+ Directory of C:\work
+
+03/18/2025  01:48 PM    <DIR>          .
+03/18/2025  12:51 PM    <DIR>          A
+03/10/2025  03:19 PM                12 D208-PC004.txt
+03/18/2025  01:50 PM             3,420 Information of commands.txt
+               2 File(s)          3,432 bytes
+               2 Dir(s)  819,551,768,576 bytes free
+
+C:\work>type D208-PC004.txt
+Sahil Kumar
+C:\work>
